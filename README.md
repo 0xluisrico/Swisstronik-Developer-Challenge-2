@@ -1,0 +1,2 @@
+contract address mumbai:0x563f85d0Cdf70BD7Bbc829f48324F3aEE50999f9
+contract address swisstronik:0xbe4f9D67353BEBDad38d8dA2A71EB600Dd54c28a
